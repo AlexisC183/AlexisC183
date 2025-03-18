@@ -12,7 +12,7 @@ I started learning this language because I wanted to develop a game but I ended 
 ## C\#
 My first programming language; it was taught in my university. I focused on this language because I wanted to learn game development with Unity but currently I want to use it for cross-platform desktop development. This language is so elegant...
 ## Python
-I learned this language plus with a framework because I will likely to be asked to use it in university. I am currently working in a small web project that I want to deploy to production. When my application is running, I guess I could call myself a junior software developer. I may use this language for maybe CLI or web development in the future.
+I learned this language plus with a framework because I will likely to be asked to use them in university. I may use this language for maybe CLI or web development in the future.
 ## JavaScript
 I don't remember what originally motivated me to learn this language, maybe my completion of the HTML-CSS-JS stack. ES6 JavaScript changed my vision of this language recently, I wish I was aware of it earlier. I will need this language for mobile app development, I want to learn React Native.
 ## SQL
